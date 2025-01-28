@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\custom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\custom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\header\\_mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\header\\_mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\header\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\header\\_topheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\header\\_sidenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\header\\_sidenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\userpanel\\teacherpanel\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\userpanel\\teacherpanel\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\userpanel\\teacherpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\userpanel\\teacherpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\userpanel\\changpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\userpanel\\changpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\pages\\custom.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\pages\\custom.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\migrations\\20250126081727_create_baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\migrations\\20250126081727_create_baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\codeyade-blog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\codeyade-blog.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\migrations\\20250126064818_add-maxlength-to-post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\migrations\\20250126064818_add-maxlength-to-post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8829A65-A1D7-4C9B-A0B3-7390573E06AC}|CodeYade-Blog.Web\\CodeYade-Blog.Web.csproj|solutionrelative:codeyade-blog.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|c:\\users\\nafis rayaneh\\desktop\\codeyade-blog\\codeyade-blog.datalayer\\migrations\\20250126064041_init_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B184440A-27EF-42B6-B9EE-2D7C494BD1C2}|CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj|solutionrelative:codeyade-blog.datalayer\\migrations\\20250126064041_init_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MainHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_MainHeader.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Header\\_MainHeader.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_MainHeader.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Header\\_MainHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T20:23:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:56:41.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:48:42.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "CodeYade-Blog.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-01-26T19:47:50.997Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Test.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Test.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Test.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:21:39.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Index.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\UserPanel\\TeacherPanel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:21:06.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Startup.cs",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:12:49.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Context\\BlogContext.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Context\\BlogContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:37:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_SideNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_SideNav.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Header\\_SideNav.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_SideNav.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Header\\_SideNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T20:01:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_TopHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_TopHeader.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Header\\_TopHeader.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Header\\_TopHeader.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Header\\_TopHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T20:17:13.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\ChangPassword.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\UserPanel\\ChangPassword.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\UserPanel\\ChangPassword.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\UserPanel\\ChangPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:17:49.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Custom.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Custom.cshtml.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Custom.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Custom.cshtml.cs",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Custom.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:01:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Custom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Custom.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Custom.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Custom.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Custom.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:01:02.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\Post.cs*",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Entities\\Post.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:45:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Program.cs",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:34:30.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CodeYade-Blog.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcGAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T20:32:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250126081727_create_baseentity.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126081727_create_baseentity.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Migrations\\20250126081727_create_baseentity.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126081727_create_baseentity.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Migrations\\20250126081727_create_baseentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:17:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250126081501_create_baseentity.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Migrations\\20250126081501_create_baseentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:15:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:07:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostComment.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\PostComment.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Entities\\PostComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:58:42.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:57:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250126064818_add-maxlength-to-post.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126064818_add-maxlength-to-post.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Migrations\\20250126064818_add-maxlength-to-post.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126064818_add-maxlength-to-post.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Migrations\\20250126064818_add-maxlength-to-post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:48:18.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250126064041_init_database.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126064041_init_database.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Migrations\\20250126064041_init_database.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Migrations\\20250126064041_init_database.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Migrations\\20250126064041_init_database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:40:41.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:52:59.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeYade-Blog.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.Web\\appsettings.json",
+              "RelativeToolTip": "CodeYade-Blog.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T12:15:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-24T16:55:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CodeYade-Blog.DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj",
+              "RelativeDocumentMoniker": "CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj",
+              "ToolTip": "C:\\Users\\Nafis Rayaneh\\Desktop\\CodeYade-Blog\\CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj",
+              "RelativeToolTip": "CodeYade-Blog.DataLayer\\CodeYade-Blog.DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T16:38:22.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

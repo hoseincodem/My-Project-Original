@@ -1,0 +1,15 @@
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.deps.json
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.pdb
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.AssemblyInfo.cs
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\refint\CodeYade-Blog.DataLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.pdb
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\ref\CodeYade-Blog.DataLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.runtimeconfig.json
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.runtimeconfig.dev.json
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.genruntimeconfig.cache
