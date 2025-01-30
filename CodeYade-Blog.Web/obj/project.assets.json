@@ -1756,7 +1756,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.0"
+          "CodeYade-Blog.DataLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.8"
         },
         "compile": {
           "bin/placeholder/CodeYade-Blog.CoreLayer.dll": {}

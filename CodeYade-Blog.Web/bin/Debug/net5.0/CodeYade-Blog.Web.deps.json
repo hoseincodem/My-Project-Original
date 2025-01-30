@@ -1310,6 +1310,7 @@
       },
       "CodeYade-Blog.CoreLayer/1.0.0": {
         "dependencies": {
+          "CodeYade-Blog.DataLayer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.8"
         },
         "runtime": {

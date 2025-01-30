@@ -84,5 +84,5 @@ C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\CodeYade-Blog.Web.sourcelink.json
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Shared\_AuthLayout.cshtml.g.cs
-C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Authh\Login.cshtml.g.cs
-C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Authh\Register.cshtml.g.cs
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.Web\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs

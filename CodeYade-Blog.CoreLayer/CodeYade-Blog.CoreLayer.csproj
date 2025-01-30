@@ -6,16 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Utilities\" />
-    <Folder Include="Services\" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.8" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.1">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
+    <ProjectReference Include="..\CodeYade-Blog.DataLayer\CodeYade-Blog.DataLayer.csproj" />
   </ItemGroup>
 
 </Project>

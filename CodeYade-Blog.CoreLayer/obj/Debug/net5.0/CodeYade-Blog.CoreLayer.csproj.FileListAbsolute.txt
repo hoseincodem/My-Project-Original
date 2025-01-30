@@ -10,3 +10,7 @@ C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\n
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\net5.0\refint\CodeYade-Blog.CoreLayer.dll
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\net5.0\CodeYade-Blog.CoreLayer.pdb
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\net5.0\ref\CodeYade-Blog.CoreLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\net5.0\CodeYade-Blog.CoreLayer.sourcelink.json
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.dll
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.pdb
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.CoreLayer\obj\Debug\net5.0\CodeYade.DF29C5AC.Up2Date

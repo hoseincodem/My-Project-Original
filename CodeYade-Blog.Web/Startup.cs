@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CodeYade_Blog.CoreLayer.Services.Users;
 using CodeYade_Blog.DataLayer.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -31,6 +32,7 @@ namespace CodeYade_Blog.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddScoped<IUserService, UserService>();
             services.AddDbContext<BlogContext>(option =>
             {
                 option.UseSqlServer(Configuration.GetConnectionString("Defualt"));

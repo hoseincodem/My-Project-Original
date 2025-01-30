@@ -13,3 +13,4 @@ C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\n
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.runtimeconfig.json
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\bin\Debug\net5.0\CodeYade-Blog.DataLayer.runtimeconfig.dev.json
 C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.genruntimeconfig.cache
+C:\Users\Nafis Rayaneh\Desktop\CodeYade-Blog\CodeYade-Blog.DataLayer\obj\Debug\net5.0\CodeYade-Blog.DataLayer.sourcelink.json
