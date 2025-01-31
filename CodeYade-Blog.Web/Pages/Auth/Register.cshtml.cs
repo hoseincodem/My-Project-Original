@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace CodeYade_Blog.Web.Pages.Auth
 {
     [BindProperties]
+    [ValidateAntiForgeryToken]
     public class RegisterModel : PageModel
     {
         private readonly IUserService _userService;
@@ -37,6 +38,10 @@ namespace CodeYade_Blog.Web.Pages.Auth
         }
         public IActionResult Onpost()
         {
+            if (ModelState.IsValid==false)
+            {
+                return Page();
+            }
             var result = _userService.RegisterUser(new UserRegisterDTo()
             {
                 UserName = UserName,

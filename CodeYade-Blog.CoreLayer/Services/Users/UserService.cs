@@ -19,8 +19,9 @@ namespace CodeYade_Blog.CoreLayer.Services.Users
 
         public OperationResult RegisterUser(UserRegisterDTo registerDto)
         {
-            var isFullNameExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
-            if (isFullNameExist)
+            var isUserNameExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
+
+            if (isUserNameExist)
                 return OperationResult.Error("نام کاربری تکراری است.");
 
             var passwordHash = registerDto.Password.EncodeToMd5();
@@ -40,6 +41,16 @@ namespace CodeYade_Blog.CoreLayer.Services.Users
             return OperationResult.Success();
         }
 
-       
+        OperationResult IUserService.LoginUser(LoginUserDto loginDto)
+        {
+            var PasswordHashed = loginDto.Password.EncodeToMd5();
+            var isUserExist = _context.Users.Any(u => u.UserName == loginDto.UserName && u.Password == PasswordHashed);
+            if (isUserExist==false)
+            {
+                return OperationResult.NotFound();
+
+            }
+            return OperationResult.Success();
+        }
     }
 }

@@ -12,5 +12,6 @@ namespace CodeYade_Blog.CoreLayer.Services.Users
     public interface IUserService
     {
         OperationResult RegisterUser(UserRegisterDTo registerDTo);
+        OperationResult LoginUser(LoginUserDto loginDto);
     }
 }
