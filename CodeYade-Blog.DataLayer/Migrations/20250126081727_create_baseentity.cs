@@ -37,7 +37,7 @@ namespace CodeYade_Blog.DataLayer.Migrations
 
             migrationBuilder.AddColumn<DateTime>(
                 name: "CreationDate",
-                table: "postComments",
+                table: "Users",
                 type: "datetime2",
                 nullable: false,
                 defaultValue: new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified));

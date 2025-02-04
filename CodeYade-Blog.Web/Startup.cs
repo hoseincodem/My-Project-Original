@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using CodeYade_Blog.CoreLayer.Services.Users;
-using CodeYade_Blog.DataLayer.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -11,8 +5,15 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using CodeYade_Blog.CoreLayer.Services.Users;
+using CodeYade_Blog.DataLayer.Context;
 
-namespace CodeYade_Blog.Web
+namespace CodeYad_Blog.Web
 {
     public class Startup
     {
@@ -23,11 +24,6 @@ namespace CodeYade_Blog.Web
 
         public IConfiguration Configuration { get; }
 
-        public IConfiguration GetConfiguration()
-        {
-            return Configuration;
-        }
-
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
@@ -35,7 +31,19 @@ namespace CodeYade_Blog.Web
             services.AddScoped<IUserService, UserService>();
             services.AddDbContext<BlogContext>(option =>
             {
-                option.UseSqlServer(Configuration.GetConnectionString("Defualt"));
+                option.UseSqlServer(Configuration.GetConnectionString("Default"));
+            });
+
+            services.AddAuthentication(option =>
+            {
+                option.DefaultAuthenticateScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                option.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+                option.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+            }).AddCookie(option =>
+            {
+                option.LoginPath = "/Auth/Login";
+                option.LogoutPath = "/Auth/Logout";
+                option.ExpireTimeSpan = TimeSpan.FromDays(30);
             });
         }
 
@@ -58,6 +66,7 @@ namespace CodeYade_Blog.Web
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

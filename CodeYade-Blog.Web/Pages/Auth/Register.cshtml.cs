@@ -16,11 +16,12 @@ namespace CodeYade_Blog.Web.Pages.Auth
         #region Properties
         [Display(Name = "نام کاربری")]
         [Required(ErrorMessage = "{0}را وارد کنید")]
-
         public string UserName { get; set; }
+
         [Display(Name = "نام و نام خانوادگی")]
         [Required(ErrorMessage = "{0}را وارد کنید")]
         public string FullName { get; set; }
+
         [Display(Name = "کلمه ی عبور")]
         [Required(ErrorMessage = "{0}را وارد کنید")]
         [MaxLength(6,ErrorMessage ="{0} باید بیشتر از 5 کراکتر باشد")]

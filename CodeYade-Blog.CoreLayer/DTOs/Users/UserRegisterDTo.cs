@@ -9,6 +9,7 @@ namespace CodeYade_Blog.CoreLayer.DTOs.Users
     public class UserRegisterDTo
     {
         public string FullName { get; set; }
+        public string Fullname { get; internal set; }
         public string UserName { get; set; }
         public string Password { get; set; }
     }
