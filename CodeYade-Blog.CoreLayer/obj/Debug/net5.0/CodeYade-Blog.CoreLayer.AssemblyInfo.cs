@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeYade-Blog.CoreLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c5df7a68f2d26ddda418f9373b6ca0bc3214c43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b6435bd6c3eec3b1d67ff25033eeaa1bd35cb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeYade-Blog.CoreLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeYade-Blog.CoreLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

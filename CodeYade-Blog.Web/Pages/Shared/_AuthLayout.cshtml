@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,14 +8,15 @@
 </head>
 
 <body>
-    <div class="container">
-        <section id="content">
-            @RenderBody()
-        </section>
-        <script src="/js//jquery.min.js"></script>
-        <partial name="_ValidationScriptsPartial" />
-        @await RenderSectionAsync("Scripts",false)
-    </div>
+<div class="container">
+    <section id="content">
+        @RenderBody()
+    </section>
+
+    <script src="/js/jquery.min.js"></script>
+    <partial name="_ValidationScriptsPartial"/>
+    @await RenderSectionAsync("Scripts",false)
+</div>
 </body>
 
 </html>

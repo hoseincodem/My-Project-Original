@@ -1,11 +1,15 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+using CodeYad_Blog.CoreLayer.Services.Users;
 using CodeYade_Blog.CoreLayer.DTOs.Users;
-using CodeYade_Blog.CoreLayer.Services.Users;
 using CodeYade_Blog.CoreLayer.Utilities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace CodeYade_Blog.Web.Pages.Auth
+namespace CodeYad_Blog.Web.Pages.Auth
 {
     [BindProperties]
     [ValidateAntiForgeryToken]
@@ -14,18 +18,20 @@ namespace CodeYade_Blog.Web.Pages.Auth
         private readonly IUserService _userService;
 
         #region Properties
+
         [Display(Name = "نام کاربری")]
-        [Required(ErrorMessage = "{0}را وارد کنید")]
+        [Required(ErrorMessage = "{0} را وارد کنید")]
         public string UserName { get; set; }
 
         [Display(Name = "نام و نام خانوادگی")]
-        [Required(ErrorMessage = "{0}را وارد کنید")]
+        [Required(ErrorMessage = "{0} را وارد کنید")]
         public string FullName { get; set; }
 
-        [Display(Name = "کلمه ی عبور")]
-        [Required(ErrorMessage = "{0}را وارد کنید")]
-        [MaxLength(6,ErrorMessage ="{0} باید بیشتر از 5 کراکتر باشد")]
+        [Display(Name = "کلمه عبور")]
+        [Required(ErrorMessage = "{0} را وارد کنید")]
+        [MinLength(6, ErrorMessage = "{0} باید بیشتر از 5 کاراکتر باشد")]
         public string Password { get; set; }
+
         #endregion
 
         public RegisterModel(IUserService userService)
@@ -35,11 +41,11 @@ namespace CodeYade_Blog.Web.Pages.Auth
 
         public void OnGet()
         {
-
         }
-        public IActionResult Onpost()
+
+        public IActionResult OnPost()
         {
-            if (ModelState.IsValid==false)
+            if (ModelState.IsValid == false)
             {
                 return Page();
             }
